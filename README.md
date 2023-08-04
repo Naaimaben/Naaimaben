@@ -1,5 +1,5 @@
 
-### Hello 
+### Hello World
 
   <img src="https://komarev.com/ghpvc/?username=NaaimaBen&label=Profile%20views&color=0e75b6&style=flat">
 
@@ -12,6 +12,7 @@
 I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial Intelligence, and a Bachelor's degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at the University Mohammed VI Polytechnic of Benguerir in which I worked for 6 months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
 <h3> Academic & Internship projects</h3>
 <li>Development of a Distributed Storage Framework for Remote Sensing Big Data for Environmental Applications in Morocco using NoSQL Databases and Hadoop Ecosystem.</li>
+<li> Deployment of Predictive Modelling of Spotify Skip Action Prediction on user acoustic data using Machine Learning classification models, Django and Herok</li>
 <h3>Skills</h3>
 <li>  Data Science: Machine Learning, Deep Learning, Natural Language Processing </li>
 <li> Big Data: Hadoop, MapReduce, Hive, HBase, Apache Spark, Docker, DataViz, Grafana, Tableau </li>
@@ -19,7 +20,7 @@ I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial In
 <li>Business Intelligence: Pentaho, ETL, Dashboarding</li>
 <li>DBMS: SQL, PL/SQL, NoSQL: Cassandra & MongoDB</li>
 <li>Programming Languages: HTML, CSS, C, Java, JEE, Python</li>
-<li></li>Android Studio, Anaconda, Google Colab, Git&Github </li>
+<li>Android Studio, Anaconda, Google Colab, Git&Github </li>
 </ul>
 
 
