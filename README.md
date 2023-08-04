@@ -1,8 +1,8 @@
 
 
-### Hello World  👋
+### Hello 
   <img src="https://komarev.com/ghpvc/?username=NaaimaBen&label=Profile%20views&color=0e75b6&style=flat">
-
+## Reach me at naaima.benkadour@edu.uiz.ac.ma
 
 <!--<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />--->
 
@@ -10,12 +10,12 @@
 <div>
   <p align="center"><b> Data Engineer | Data Scientist | Business Data Analyst </p>
 <ul>
-I'm Naaima, a recent graduate with a Masters degree in Big Data & Artificial Intelligence, and a Bachelor degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at University Mohammed VI Polytechnic of Benguerir in which I worked for 6-months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
+I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial Intelligence, and a Bachelor's degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at the University Mohammed VI Polytechnic of Benguerir in which I worked for 6 months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
 <h3> Tasks:</h3>
 <li>Development of a Distributed Storage Framework for Remote Sensing Big Data for Environmental Applications in Morocco using NoSQL Databases and Hadoop. </li>
 <li>Testing the performance of Cassandra, MongoDB, HDFS, HBase and Hive to select the best tool based on importing time, execution time, latency, and indexing...</li>
 <li> Processing Africa's Geospatial Big Data with MapReduce and Apache Spark using Spatio-temporal analysis.</li>
- </ul>
+</ul>
 
 
 
