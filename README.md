@@ -1,8 +1,7 @@
 
-
 ### Hello 
+
   <img src="https://komarev.com/ghpvc/?username=NaaimaBen&label=Profile%20views&color=0e75b6&style=flat">
-## Reach me at naaima.benkadour@edu.uiz.ac.ma
 
 <!--<img align="right" height="380" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />--->
 
@@ -24,7 +23,7 @@ I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial In
 
 
 
-
+### Reach me at naaima.benkadour@edu.uiz.ac.ma
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
