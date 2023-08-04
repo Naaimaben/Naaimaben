@@ -7,7 +7,7 @@
 
 
 <div>
- <h2> <p align="center"><b> Data Engineer | Data Scientist | Business Data Analyst </p></2>
+ <h2> <p align="center"><b> Data Engineer | Data Scientist | Business Data Analyst </p></h2>
 <ul>
 I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial Intelligence, and a Bachelor's degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at the University Mohammed VI Polytechnic of Benguerir in which I worked for 6 months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
 <h3> Academic & Internship projects</h3>
