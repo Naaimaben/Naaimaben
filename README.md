@@ -10,10 +10,17 @@
   <p align="center"><b> Data Engineer | Data Scientist | Business Data Analyst </p>
 <ul>
 I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial Intelligence, and a Bachelor's degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at the University Mohammed VI Polytechnic of Benguerir in which I worked for 6 months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
-<h3> Tasks:</h3>
-<li>Development of a Distributed Storage Framework for Remote Sensing Big Data for Environmental Applications in Morocco using NoSQL Databases and Hadoop. </li>
-<li>Testing the performance of Cassandra, MongoDB, HDFS, HBase and Hive to select the best tool based on importing time, execution time, latency, and indexing...</li>
-<li> Processing Africa's Geospatial Big Data with MapReduce and Apache Spark using Spatio-temporal analysis.</li>
+<h3> Academic & Internship projects</h3>
+<li>Development of a Distributed Storage Framework for Remote Sensing Big Data for Environmental Applications in Morocco using NoSQL Databases and Hadoop Ecosystem.</li>
+<li> </li>
+<h3>Skills</h3>
+<li>  Data Science: Machine Learning, Deep Learning, Natural Language Processing </li>
+<li> Big Data: Hadoop, MapReduce, Hive, HBase, Apache Spark, Docker, DataViz, Grafana, Tableau </li>
+<li>Computer Vision: Image Processing, Remote Sensing</li>
+<li>Business Intelligence: Pentaho, ETL, Dashboarding</li>
+<li>DBMS: SQL, PL/SQL, NoSQL: Cassandra & MongoDB</li>
+<li></li>Programming Languages: HTML, CSS, C, Java, JEE, Python</li>
+<li></li>Android Studio, Anaconda, Google Colab, Git&Github </li>
 </ul>
 
 
