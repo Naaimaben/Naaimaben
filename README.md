@@ -10,10 +10,15 @@
  <p align="center"><b> Data Engineer | Data Scientist | Business Data Analyst </p>
 <ul>
 I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial Intelligence, and a Bachelor's degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at the University Mohammed VI Polytechnic of Benguerir in which I worked for 6 months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
+  
 <h3> Academic & Internship projects</h3>
-<li>Development of a Distributed Storage Framework for Remote Sensing Big Data for Environmental Applications in Morocco using NoSQL Databases and Hadoop Ecosystem.</li>
-<li> Deployment of Predictive Modelling of Spotify Skip Action Prediction on user acoustic data using Machine Learning classification models, Django and Herok</li>
-<h3>Skills</h3>
+<li>Development of a Distributed Storage Framework for Remote Sensing Big Data for Environmental Applications in Morocco using NoSQL Databases and the Hadoop Ecosystem. (CRSA-UM6P)</li>
+<li> Deployment of Predictive Modelling of Spotify Skip Action Prediction on user acoustic data using Machine Learning classification models, Django and Herok. (Technocolabs Softwares) </li>
+<li> Tifinagh Character Recognition with Convolutional Neural Network (CNN) (Deep Learning Course Project) </li>
+<li>Developing a real-time GPS tracking system with Raspberry Pi 3 and GPS to track and monitor real-time movements (IoTs & Blockchain Course Project) </li>
+<li> Monitoring Plant Growth with Image Processing using OpenCV and PlantCV ( Computer Vision Course Project) </li>
+
+  <h3>Skills</h3>
 <li>  Data Science: Machine Learning, Deep Learning, Natural Language Processing </li>
 <li> Big Data: Hadoop, MapReduce, Hive, HBase, Apache Spark, Docker, DataViz, Grafana, Tableau </li>
 <li>Computer Vision: Image Processing, Remote Sensing</li>
