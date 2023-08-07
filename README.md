@@ -7,7 +7,7 @@
 
 
 <div>
- <p align="center"><b> Data Engineer | Data Scientist | Business Data Analyst </p>
+ <p align="center"><b> Data Engineer | Data Scientist | Data Analyst </p>
 <ul>
 I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial Intelligence, and a Bachelor's degree in Computer Engineering. I recently completed an internship at the Center for Remote Sensing Applications at the University Mohammed VI Polytechnic of Benguerir in which I worked for 6 months as a Geospatial Big Data Engineer on the MIT Project at the CRSA.
   
@@ -40,7 +40,6 @@ I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial In
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Naaima Ben Kadour" height="50" width="50" /></a> 
 <a href="https://www.linkedin.com/in/naaima-ben-kadour/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="NaaimaBen" height="50" width="50" /></a>
   
 
