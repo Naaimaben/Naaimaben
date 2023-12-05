@@ -20,11 +20,11 @@ I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial In
 
   <h3>Skills</h3>
 <li>  Data Science: Machine Learning, Deep Learning, Natural Language Processing </li>
-<li> Big Data: Hadoop, MapReduce, Hive, HBase, Apache Spark, Docker, DataViz, Grafana, Tableau </li>
+<li> Big Data: Hadoop, MapReduce, Hive, HBase, Apache Spark, Docker, DataViz, Grafana, Tableau, Microsoft Azure </li>
 <li>Computer Vision: Image Processing, Remote Sensing</li>
-<li>Business Intelligence: Pentaho, ETL, Dashboarding</li>
+<li>Business Intelligence: Pentaho, PowerBI, ETL, Data Warrehouse, Data Marts, Dashboarding</li>
 <li>DBMS: SQL, PL/SQL, NoSQL: Cassandra & MongoDB</li>
-<li>Programming Languages: HTML, CSS, C, Java, JEE, Python</li>
+<li>Programming Languages: HTML, CSS, C, Java, JEE, R, Python, Flask, PyTorch</li>
 <li>Android Studio, Anaconda, Google Colab, Git&Github </li>
 </ul>
 
@@ -41,7 +41,9 @@ I'm Naaima, a recent graduate with a Master's degree in Big Data & Artificial In
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/naaima-ben-kadour/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="NaaimaBen" height="50" width="50" /></a>
-  
+<a href="https://twitter.com/HumbleAspirer" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Naaima" height="50" width="50" /></a>
+
+
 
 
   
